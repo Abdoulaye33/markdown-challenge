@@ -6,7 +6,7 @@
 
 | Anniversaire | Couleur préférée | Plat préféré | Ananas sur la pizza |
 |--------------|------------------|--------------|---------------------|
-|   15/03      | **Bleu**         |  **Salade**  | <input type="checkbox"> Oui <br> <input type="checkbox">Non
+|   15/03      | **Bleu**         |  **Salade**  | <input type="checkbox"> Oui/ <br> <input type="checkbox">Non
 
 #### Roblox web-dev
 
